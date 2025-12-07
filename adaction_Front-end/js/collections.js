@@ -108,4 +108,5 @@ searchButton.addEventListener('click', async () => {
     }
 })();
 
+
 console.log('Collections JS chargé');

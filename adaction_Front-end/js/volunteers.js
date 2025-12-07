@@ -202,6 +202,7 @@ window.addEventListener("click", e => {
     closeModal();
 });
 
+
 //& Rechercher les bénévoles selon la ville et le nom :
 
 document.querySelector(".search-form").addEventListener("submit", async e => {
